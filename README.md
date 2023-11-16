@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kapil!
-I'm a 6th year Ph.D. Candidate at Northwestern University working with Professors [Haoqi Zhang](http://users.eecs.northwestern.edu/~hq/) and [Darren Gergle](http://dgergle.soc.northwestern.edu/). My research develops human-AI systems for advancing complex work, like research, in networked workplaces. I think about how machine support can be interweaved into a human's work process to help them understand what work situations to attend to and what strategies are effective. See my [website](https://www.kgarg.com/) for more!
+I'm a 6th year Ph.D. Candidate at Northwestern University in [Technology and Social Behavior](https://tsb.northwestern.edu/) (dual degree in CS and Communication Studies) working with Professors [Haoqi Zhang](http://users.eecs.northwestern.edu/~hq/) and [Darren Gergle](http://dgergle.soc.northwestern.edu/). My research develops human-AI systems for advancing complex work, like research, in networked workplaces. I think about how machine support can be interweaved into a human's work process to help them understand what work situations to attend to and what strategies are effective. See my [website](https://www.kgarg.com/) for more!
 
 ## 🔬 Research systems
 Some of my research systems include:
