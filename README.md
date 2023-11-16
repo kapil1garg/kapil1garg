@@ -2,10 +2,12 @@
 I'm a 6th year Ph.D. Candidate at Northwestern University in [Technology and Social Behavior](https://tsb.northwestern.edu/) (dual degree in CS and Communication Studies) working with Professors [Haoqi Zhang](http://users.eecs.northwestern.edu/~hq/) and [Darren Gergle](http://dgergle.soc.northwestern.edu/). My research develops human-AI systems for advancing complex work, like research, in networked workplaces. I think about how machine support can be interweaved into a human's work process to help them understand what work situations to attend to and what strategies are effective. See my [website](https://www.kgarg.com/) for more!
 
 ## 🔬 Research systems
-Some of my research systems include:
+I've developed the following systems to support complex work in networked workplaces:
 - [Interactive SOAP Notes](https://github.com/NUDelta/interactive-soap-notes): a new note-taking tool that combines dispersed context of work situations into a structured discussion space for determining situated actions (e.g., suggesting peers who can help with prototpe bugs).
 - [Orchestration Script Authoring and Diagnosis Interface](https://github.com/NUDelta/orchestration-scripting-interfaces): a way to model expert diagnosis practices for work situations and reason about them when issues arise (e.g,. when a worker is blocked on making progress on prototyping).
 -  [Orchestration Scripts](https://github.com/NUDelta/orchestration-engine): a platform for writing programs to guide situated action, powered by Organizational Objects that model the ways of working in a workplace. Published at CHI 2023.
+
+Aside from workplace tools, I also worked on:
 -  [Opportunistic Collective Experiences](https://github.com/NUDelta/ce-platform): location-based opportunistic interactions at locations around the world (e.g., two friends at a coffee shop sharing latte art). Published at CSCW 2020.
 -  [4X](https://github.com/NUDelta/low-effort-sensing-ios): a hybrid approach for location-based data collection that leverages users' interest in collected data to elicit additional data contributions. Built as an iPhone and Apple Watch application for data sensing around college campuses. Published at CSCW 2019.
 
