@@ -3,7 +3,7 @@ I'm a 6th year Ph.D. Candidate at Northwestern University in [Technology and Soc
 
 ## 🔬 Research systems
 I've developed the following systems to support complex work in networked workplaces:
-- [Interactive SOAP Notes](https://github.com/NUDelta/interactive-soap-notes): a new note-taking tool that combines dispersed context of work situations into a structured discussion space for determining situated actions (e.g., suggesting peers who can help with prototype bugs).
+- [Interactive CAP Notes](https://github.com/NUDelta/interactive-soap-notes): a new note-taking tool that provides mentors structures for understanding how their students are working and for computationally-backed follow-up practices to be described in natural langague (e.g., suggesting peers who can help with prototype bugs --> creates a group DM to discuss).
 - [Orchestration Script Authoring and Diagnosis Interface](https://github.com/NUDelta/orchestration-scripting-interfaces): a way to model expert diagnosis practices for work situations and reason about them when issues arise (e.g,. when a worker is blocked on making progress on prototyping). Done with my [wonderful undergrad students](https://dtr.northwestern.edu/projects/recpszo9ngYQ1ON9S).
 -  [Orchestration Scripts](https://github.com/NUDelta/orchestration-engine): a platform for writing programs to guide situated action, powered by Organizational Objects that model the ways of working in a workplace. Published at CHI 2023.
 
